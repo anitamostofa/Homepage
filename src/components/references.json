@@ -1,0 +1,16 @@
+[
+  {
+    "id": "silberweiss",
+    "title": "SILBERWEISS",
+    "image": "silberweiss/flyer-design-flugblatt-druck-programm-dresden.jpg",
+    "description": "Description of Reference 1",
+    "link": "/referenzen/silberweiss"
+  },
+  {
+    "id": "gartentraum",
+    "title": "GartenTraum",
+    "image": "gartentraum/image2.jpg",
+    "description": "Description of Reference 2",
+    "link": "/references/gartentraum"
+  }
+]

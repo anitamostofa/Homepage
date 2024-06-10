@@ -1,0 +1,39 @@
+{
+  "name": "canvas-text",
+  "version": "1.0.0",
+  "description": "Shows how to form self-contained components with their own state and user interaction.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/fiber": "8.16.6",
+    "@types/three": "0.164.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-scripts": "5.0.1",
+    "three": "0.164.1",
+    "@react-three/drei": "9.105.6",
+    "public": "0.1.5",
+    "react-svg": "16.1.34",
+    "@babel/plugin-proposal-decorators": "7.24.6",
+    "react-lottie": "1.2.4",
+    "prop-types": "15.8.1",
+    "lottie-react": "2.4.0",
+    "lottie-react-native": "6.7.2",
+    "@lottiefiles/react-lottie-player": "3.5.4",
+    "react-router-dom": "6.23.1",
+    "react-helmet": "6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
